@@ -1,0 +1,5 @@
+John Doe deposited 200.0; New balance: 700.0
+John Doe attempted invalid deposit of -50.0 (FAILED)
+John Doe withdrew 100.0; New balance: 600.0
+John Doe attempted withdrawal of 700.0 (FAILED)
+John Doe checked balance: 600.0
